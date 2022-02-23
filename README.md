@@ -17,4 +17,4 @@
 - Entre na pasta do projeto `cd react-unit-testing` e logo após `code` .
 - Para instalar as dependências do projeto exucute no terminal `yarn` ou `npm i`
 - Para executar o front-end execute `yarn dev` ou `npm run dev`
-- Para executar os teste execute `yarn test` ou `npm run test`
+- Para executar os testes execute `yarn test` ou `npm run test`
